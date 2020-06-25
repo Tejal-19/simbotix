@@ -63,8 +63,8 @@ See todo.md for seeing developments of this project
 3.
 # Contributors
 - MENTORS
-1. Ms. Priti jain: 
-2. Mr. 
+1. Ms. Priti Jain: 
+2. Mr. Manas Thorat: manasthorat09@gmail.com
 - Members
 1. Ms. Tejal Bedmutha : tezzb18@gmail.com
 2. Ms. Reshmika Nambiar : reshmikasnambiar@gmail.com
