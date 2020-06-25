@@ -34,15 +34,15 @@ In this project we have used an KUKA robot already inbuilt in coppeliasim softwa
 - Copeeliasim edu latest version 
 - git
 - github repository 
-### How to install them
+> ### How to install them
 1. [Install coppeliasim from its official website](www.coppeliarobotics.com)
 2. Install git from its official website.
 3. Sign up to Github and create a repository
 ## Installation
 1 Clone the repo in the project folder
-git clone https://github.com/your_username_/Project-Name.git
+> git clone https://github.com/your_username_/Project-Name.git
 # Usage
-How to run the driver code
+> How to run the driver code
 # Results and Demo
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.
 result screenshots
