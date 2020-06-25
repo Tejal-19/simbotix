@@ -31,8 +31,9 @@ In this project we have used an KUKA robot already inbuilt in coppeliasim softwa
 └── todo.md                 # If Future developments and current status gets lengthy
 # Getting Started
 ## Prerequisites
-- See SETUP.md if there are plenty of instructions
-- List of softwares with version tested on
+- Copeeliasim edu latest version 
+- git
+- github repository 
 ### How to install them
 ESP-IDF v4.0 and above
 
@@ -55,17 +56,17 @@ Use	Table
 For	Comparison
 # Future Work
 See todo.md for seeing developments of this project
- Task 1
- Task 2
- Task 3
- Task 4
+ - Task 1
+ - Task 2
+- Task 3
+- Task 4
 # Troubleshooting
 # Common errors while configuring the project
 1. 
 # Contributors
 - MENTOR 
-Ms. Priti jain: 
-Mr. 
+1. Ms. Priti jain: 
+2. Mr. 
 - Members
 1. Ms. Tejal Bedmutha : tezzb18@gmail.com
 2. Ms. Reshmika Nambiar : reshmikasnambiar@gmail.com
