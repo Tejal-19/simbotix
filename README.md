@@ -62,7 +62,7 @@ See todo.md for seeing developments of this project
 2. related to ik and path planning
 3.
 # Contributors
-- MENTOR 
+- MENTORS
 1. Ms. Priti jain: 
 2. Mr. 
 - Members
