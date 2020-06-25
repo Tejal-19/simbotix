@@ -4,7 +4,7 @@ Simbotix
 This is a V-REP pick and place robot project
 # Table of Contents
 # About The Project
-![Product Name Screen Shot][product-screenshot]
+![alt final](final.png)
 
 ## Aim and Description of project.
 In this project we have used an KUKA robot already inbuilt in coppeliasim software which is designed to pick and place the boxes colored black and white to and from the conveyors. We have set the bot in Inverse Kinematics mode. 
