@@ -35,15 +35,11 @@ In this project we have used an KUKA robot already inbuilt in coppeliasim softwa
 - git
 - github repository 
 ### How to install them
-ESP-IDF v4.0 and above
-
-You can visit the ESP-IDF Programmming Guide for the installation steps.
-
-See if you can make requirements.txt
-
-pip install -r "requirements.txt"
+1. [Install coppeliasim from its official website](www.coppeliarobotics.com)
+2. Install git from its official website.
+3. Sign up to Github and create a repository
 ## Installation
-1 Clone the repo
+1 Clone the repo in the project folder
 git clone https://github.com/your_username_/Project-Name.git
 # Usage
 How to run the driver code
@@ -62,7 +58,9 @@ See todo.md for seeing developments of this project
 - Task 4
 # Troubleshooting
 # Common errors while configuring the project
-1. 
+1. Errors related to syntax 
+2. related to ik and path planning
+3.
 # Contributors
 - MENTOR 
 1. Ms. Priti jain: 
