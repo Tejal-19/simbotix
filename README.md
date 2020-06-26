@@ -28,7 +28,7 @@ In this project we have used an KUKA robot already inbuilt in coppeliasim softwa
 # Results and Demo
 <div class="embed-responsive embed-responsive-16by9">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/D5PNpu40aRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </div>
+ <\div>
 # Future Work
  - Task 1: Adding camera/vision sensors to detect object
  - Task 2: Changing the robot and gripper/Designing one
