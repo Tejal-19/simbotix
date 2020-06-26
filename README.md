@@ -11,24 +11,6 @@ In this project we have used an KUKA robot already inbuilt in coppeliasim softwa
 
 ## Tech Stack
 - Coppeliasim
-## File Structure
-.
-├── app.py                  # Explain the function preformed by this file in short
-├── docs                    # Documentation files (alternatively `doc`)
-│   ├── report.pdf          # Project report
-│   └── results             # Folder containing screenshots, gifs, videos of results
-├── src                     # Source files (alternatively `lib` or `app`)
-├── ...
-├── test                    # Test files (alternatively `spec` or `tests`)
-│   ├── benchmarks          # Load and stress tests
-│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
-│   └── unit                # Unit tests
-├── ...
-├── tools                   # Tools and utilities
-├── LICENSE
-├── README.md 
-├── Setup.md                # If Installation instructions are lengthy
-└── todo.md                 # If Future developments and current status gets lengthy
 # Getting Started
 ## Prerequisites
 - Copeeliasim edu latest version 
@@ -44,18 +26,14 @@ In this project we have used an KUKA robot already inbuilt in coppeliasim softwa
 # Usage
 > How to run the driver code
 # Results and Demo
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.
-result screenshots
-result gif or video
-
-Use	Table
-For	Comparison
+<div class="embed-responsive embed-responsive-16by9">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/D5PNpu40aRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
 # Future Work
-See todo.md for seeing developments of this project
- - Task 1
- - Task 2
-- Task 3
-- Task 4
+ - Task 1: Adding camera/vision sensors to detect object
+ - Task 2: Changing the robot and gripper/Designing one
+ - Task 3: To make the robot mobile  
+ - Task 4: obstacle avoidance and end to end planning
 # Troubleshooting
 # Common errors while configuring the project
 1. Errors related to syntax 
