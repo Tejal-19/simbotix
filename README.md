@@ -26,7 +26,7 @@ In this project we have used an KUKA robot already inbuilt in coppeliasim softwa
 # Usage
 > How to run the driver code
 # Results and Demo
-[Our final video](https://youtu.be/D5PNpu40aRw)
+[Our final video](https://youtu.be/Pa8bjl16Gbc)
 # Future Work
  - Task 1: Adding camera/vision sensors to detect object
  - Task 2: Changing the robot and gripper/Designing one
