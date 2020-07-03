@@ -37,6 +37,8 @@ Software used for this project :
     ├── WithoutDepth            # Future work - Extracting X and Z coordinates of boxes
     ├── WithDepth               # Future work - Extracting X, Y and Z coordinates of boxes
     ├── report.pdf              # Project report
+    ├── final.png               # Screenshot of scene before simulation starts
+    ├── scene.png               # Screenshot of scene during simulation
     ├── LICENSE
     └── README.md  
     
