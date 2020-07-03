@@ -25,7 +25,7 @@ V-REP scene to simulate a robot which picks up black and white boxes from one co
 ![Final Scene](final.png)  
 
 The aim of the project is to simulate a robotic arm which picks up white and black boxes from a conveyor and places them on separate conveyors. This is accomplished with the use of inverse kinematics and path planning. In this project, we have used a KUKA robot which is already inbuilt in CoppeliaSim/V-REP software.   
-Refer this [documentation](https://link/to/report/).
+Refer this [documentation](report.pdf).
 
 ### Tech Stack
 Software used for this project :  
