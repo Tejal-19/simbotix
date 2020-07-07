@@ -34,8 +34,7 @@ Software used for this project :
 ### File Structure
     .
     ├── PickAndPlace.ttt        # Project file - Open it in V-REP and start the simulation
-    ├── WithoutDepth            # Future work - Extracting X and Z coordinates of boxes
-    ├── WithDepth               # Future work - Extracting X, Y and Z coordinates of boxes
+    ├── ExtractCoordinates.ttt  # Future work - Extracts X, Y and Z coordinates of white boxes
     ├── report.pdf              # Project report
     ├── final.png               # Screenshot of scene before simulation starts
     ├── scene.png               # Screenshot of scene during simulation
@@ -87,8 +86,8 @@ Scene during the simulation:
 * Extracting coordinates of white boxes
 - [x] Add Vision Sensor
 - [x] Add Blob Detection Filter
-- [ ] Add Vision Sensor script
-- [ ] Convert all coordinates to metres  
+- [x] Add Vision Sensor script
+- [x] Convert all coordinates to metres  
 * Other possible modifications:
 - [ ] Adding camera/vision sensors to detect object
 - [ ] Changing the robot and gripper, or designing one
