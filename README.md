@@ -109,7 +109,7 @@ Scene during the simulation:
 ## Contributors
 
 * MENTORS
-  1. Ms. Priti Jain: dodotitu768@gmail.com
+  1. Ms. Priti Jain:preetijain7681@gmail.com
   2. Mr. Manas Thorat: manasthorat09@gmail.com
 * MEMBERS
   1. [Ms. Tejal Bedmutha](https://github.com/Tejal-19) : tezzb18@gmail.com
